@@ -1,2 +1,2 @@
 # meegtools
-My python tools for processing MEEG signals
+Python tools for processing MEEG signals and graphs
